@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: email
 - 🔭 I’m currently working on NOELLE
-- 🌱 I’m currently learning MLIR
+- 🌱 I’m currently learning MLIR and game development using Unity and Blender
 - 🤔 I’m looking for help with NOELLE to make it scalable to large codebases like Chrome
 - 💬 Ask me about static and dynamic compilers, LLVM, NOELLE, co-designing compilers with surrounding hardware/software layers
 
