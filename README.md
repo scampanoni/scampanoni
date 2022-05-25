@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 I run the compiler [ARCANA group](https://users.cs.northwestern.edu/~simonec/Team.html#Current) at Northwestern University
 
-The codebase the group generates can be found here: https://github.com/arcana-lab
+The codebase our group generates can be found here: https://github.com/arcana-lab
 
 
 - 📫 How to reach me: email
