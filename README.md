@@ -14,7 +14,7 @@ The codebase our group generates can be found here: https://github.com/arcana-la
 
 - 📫 How to reach me: email
 - 🔭 I’m currently working on NOELLE
-- 🌱 I’m currently learning MLIR and game development using Unity and Blender
+- 🌱 I’m currently learning MLIR and game development using Unreal Engine and Blender
 - 🤔 I’m looking for help with NOELLE to make it scalable to large codebases like Chrome
 - 💬 Ask me about static and dynamic compilers, LLVM, NOELLE, co-designing compilers with surrounding hardware/software layers
 
